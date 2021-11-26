@@ -10,4 +10,4 @@ Diagrama de Entidade e Relacionamentos Versão 1 do Bando de Dados:
 
 
 
-![Modelo_BD](https://user-images.githubusercontent.com/81923270/139108208-39a49f2a-82da-4f34-9ebc-cfb5f7ef3855.jpg)
+![Modelo_BD](![DiagramaBD](https://user-images.githubusercontent.com/81923270/143621097-6a35c668-127b-4562-8d01-95d55ac3b0b5.png)
